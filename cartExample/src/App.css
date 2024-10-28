@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 10vh; /* Full height */
+    background-image: url('C:\Users\z046422\Downloads\ReactJs\CartExample\cartExample\src\images\Renault-Logo.png'); /* Update with your image path */
+    background-size: 1190px; /* Cover the entire area */
+    background-position: left; /* Center the image */
+  }
+  
+  h2 {
+    color:blue; /* Change text color for visibility */
+
+  }
+  p{
+    color: chocolate;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  h3 {
+    color: darkmagenta
+  }
+  h1{
+    color:coral
+  }
